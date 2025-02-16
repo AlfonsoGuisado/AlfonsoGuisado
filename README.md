@@ -27,5 +27,5 @@ _Aún trabajando en esta sección..._
 
 #### 📢  Contacto  
 - 📧 **Correo Electrónico:** alfonsoguisadog2211@gmail.com  
-- 🔗 **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/alfonsoguisado)
+- 🔗 **LinkedIn:** [LinkdIn](https://www.linkedin.com/in/alfonsoguisado)
 
