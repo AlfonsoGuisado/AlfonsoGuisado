@@ -14,7 +14,8 @@ _Still working on this section..._
 ---
   
 #### 💻 Programming and Tools
-- **Languages:** Python, R, SQL, NoSQL.  
+- **Languages:** Python, R, SQL, NoSQL.
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)&nbsp;
 - **Databases:** MySQL, SnowFlake.  
 
 #### ⚙️ Advanced Techniques  
