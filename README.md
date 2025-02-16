@@ -14,7 +14,7 @@ _Still working on this section..._
 ---
   
 #### 💻 Programming and Tools
-- **Languages:** Python, R, SQL, NoSQL.
+- **Languages:** [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 - **Databases:** [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 #### ⚙️ Advanced Techniques  
