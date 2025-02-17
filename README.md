@@ -14,8 +14,8 @@ _Still working on this section..._
 ---
   
 #### 💻 Programming and Tools
-- **Languages:** [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
-- **Databases:** [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 #### ⚙️ Advanced Techniques  
 - **Data Mining:** Cleaning and handling data for subsequent modeling.
@@ -26,6 +26,6 @@ _Still working on this section..._
 ---
 
 #### 📢  Contact  
-- 📧 **Email:** alfonsoguisadog2211@gmail.com  
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) alfonsoguisadog2211@gmail.com  
 - 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alfonsoguisado)
 
