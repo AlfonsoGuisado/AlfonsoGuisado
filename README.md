@@ -11,7 +11,7 @@ My approach combines **statistical rigor** with the practical implementation of 
 #### 🔄 Highlighted Projects
 _Still working on this section..._
 
----
+----
   
 #### 💻 Programming and Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
