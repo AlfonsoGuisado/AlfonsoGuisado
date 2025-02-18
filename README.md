@@ -22,6 +22,6 @@ _Still working on this section..._
 
 ---
 
-#### 🌐  Contact
-[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/alfonsoguisado) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alfonsoguisado)
+#### 🌐  My Digital Space
+[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/alfonsoguisado)
 
