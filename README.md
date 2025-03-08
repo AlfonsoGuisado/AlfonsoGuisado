@@ -10,11 +10,14 @@ I am a **Statistician and Data Scientist** passionate about **Big Data**, **Pred
 _Still working on this section..._
 
 ---
-  
+
 #### 💻  Programming and Tools
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)	[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)	
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=pandas&logoColor=000)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 #### ⚙️  Advanced Techniques  
