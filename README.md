@@ -6,7 +6,7 @@ I am a **Statistician and Data Scientist** passionate about **Big Data**, **Pred
 
 ---
 
-#### 🚩  Highlighted Projects:
+#### 🏆  Highlighted Projects:
 _Still working on this section..._
 
 ---
