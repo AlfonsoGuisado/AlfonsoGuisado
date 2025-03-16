@@ -9,6 +9,8 @@ I am a **Statistician and Data Scientist** passionate about **Big Data**, **Pred
 #### 🏆  Highlighted Projects:
 _Still working on this section..._
 
+Monty_Hall_Paradox_Simulation_ML_Demonstration
+
 ---
 
 #### 🛠️  Programming and Tools:
