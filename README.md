@@ -2,7 +2,7 @@
 ## A space where I share my journey as a Statistician and Data Scientist.
 
 ### 👤  About Me:
-I am a **Statistician and Data Scientist** passionate about **Big Data**, **Predictive Modeling** and **Machine Learning**. My ambition is to transform data into knowledge and build models that not only predict but also make a real impact on decision-making. My approach combines **statistical rigor** with the practical implementation of **advanced data science techniques**. I am constantly striving to learn new technologies and share my journey with the community.
+I am a **Statistician and Data Scientist** passionate about **Big Data**, **Predictive Modeling** and **Machine Learning**. My ambition is to transform data into knowledge and build models that not only predict but also make a real impact on decision-making. My approach combines **statistical rigor** with the practical implementation of **advanced data science techniques**, always advocating for clean code. I am constantly striving to learn new technologies and share my journey with the community.
 
 ---
 
