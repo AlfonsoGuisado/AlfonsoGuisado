@@ -21,10 +21,10 @@ _Still working on this section..._
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 #### ⚙️  Advanced Techniques:
-- **Statistics:** Statistical Inference, Experimental Design, Multivariate Analysis. 
-- **Data Mining:** Cleaning and handling data for subsequent modeling.
+- **Statistics:** Statistical Inference, Statistical Sampling, Multivariate Analysis & Experimental Design. 
+- **Data Mining:** Cleaning and handling data for subsequent treatment and/or modeling.
 - **Predictive Modeling:** Supervised and Unsupervised Analysis.
-- **Machine Learning:** Ensembles (Random Forest, Gradient Boosting), deep learning (neural networks).
+- **Machine Learning:** Ensembles (Bagging & Boosting), Deep Learning.
 
 ---
 
