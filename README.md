@@ -27,6 +27,7 @@ _Still working on this section..._
 
 ---
 
-#### 🌐  My Digital Space:
-[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/alfonsoguisado)
+#### 🌐  Contact:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alfonsoguisadog2211@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/alfonsoguisado)
 
