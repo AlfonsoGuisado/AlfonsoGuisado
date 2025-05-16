@@ -13,7 +13,6 @@ _Still working on this section..._
 
 #### 🛠️  Programming and Tools:
 
-|---|---|
 | Programming Languages | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) |
 | SQL & NoSQL | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) |
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
