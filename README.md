@@ -11,20 +11,19 @@ _Still working on this section..._
 
 ---
 
-#### 🛠️  Programming and Tools:
+#### ⚙️  Advanced Techniques:
+- **Statistics:** Statistical Inference, Statistical Sampling, Multivariate Analysis & Experimental Design. 
+- **EDA\Data Mining:** Preparing and refining data to enable modeling and extract valuable insights through data.
+- **Predictive Modeling:** Supervised and Unsupervised Analysis.
+- **Machine Learning:** Ensembles (Bagging & Boosting), Deep Learning.
 
+#### 🛠️  Programming and Tools:
 | Programming Languages | <div align="left"><strong> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) </strong></div> |
 |---|---|
 | **SQL & NoSQL** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) |
 | **Business Intelligence** | [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#) |
 | **Cloud** | [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) |
 | **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) |
-
-#### ⚙️  Advanced Techniques:
-- **Statistics:** Statistical Inference, Statistical Sampling, Multivariate Analysis & Experimental Design. 
-- **Data Mining:** Cleaning and handling data for subsequent treatment and/or modeling.
-- **Predictive Modeling:** Supervised and Unsupervised Analysis.
-- **Machine Learning:** Ensembles (Bagging & Boosting), Deep Learning.
 
 ---
 
