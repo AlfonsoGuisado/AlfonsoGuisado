@@ -13,7 +13,7 @@ _Still working on this section..._
 
 #### ⚙️  Advanced Techniques:
 - **Statistics:** Statistical Inference, Statistical Sampling, Multivariate Analysis & Experimental Design. 
-- **EDA\Data Mining:** Preparing and refining data to enable modeling and extract valuable insights through data.
+- **EDA and Data Mining:** Preparing and refining data to enable modeling and extract valuable insights through data.
 - **Predictive Modeling:** Supervised and Unsupervised Analysis.
 - **Machine Learning:** Ensembles (Bagging & Boosting), Deep Learning.
 
