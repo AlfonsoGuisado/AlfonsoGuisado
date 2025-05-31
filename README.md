@@ -18,11 +18,11 @@ _Still working on this section..._
 - **Machine Learning:** Ensembles (Bagging & Boosting), Deep Learning.
 
 #### 🛠️  Programming and Tools:
-| Programming Languages | <div align="left"><strong> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) </strong></div> |
+| <div align="left"><strong> Programming Languages | <div align="left"><strong> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) </strong></div> |
 |---|---|
 | **Databases & Query Engines** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) |
 | **Data Processing Platforms** |   |
-| **Business Intelligence** | [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#) |
+| **Business Intelligence** | [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#) [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#) |
 | **Cloud Platforms** | [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) |
 | **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) |
 
