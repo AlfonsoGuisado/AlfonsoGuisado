@@ -12,10 +12,10 @@ _Still working on this section..._
 ---
 
 #### ⚙️  Advanced Techniques:
-- **Statistics:** Statistical Inference, Statistical Sampling, Multivariate Analysis & Experimental Design. 
-- **EDA and Data Mining:** Preparing and refining data to enable modeling and extract valuable insights through data.
-- **Predictive Modeling:** Supervised and Unsupervised Analysis.
-- **Machine Learning:** Ensembles (Bagging & Boosting), Deep Learning.
+- **Statistics:** Statistical Inference, Sampling Methods, Multivariate Analysis, and Experimental Design to support robust, data-driven decision-making.
+- **EDA, Data Mining & Feature Engineering:** Preparing, cleaning, and analyzing data to discover patterns and extract meaningful insights prior to modeling.
+- **Predictive Modeling:** Application of Supervised and Unsupervised learning techniques to predict outcomes and uncover hidden structures.
+- **Machine Learning:** Ensembles (Bagging & Boosting), as well as Deep Learning methods in CNNs, Transformers, LLMs and so on.
 
 #### 🛠️  Programming and Tools:
 | <div align="left"><strong> Programming Languages | <div align="left"><strong> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) </strong></div> |
