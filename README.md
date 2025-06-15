@@ -15,7 +15,7 @@ _Still working on this section..._
 - **Statistics:** Statistical Inference, Sampling Methods, Multivariate Analysis, and Experimental Design to support robust, data-driven decision-making.
 - **EDA, Data Mining & Feature Engineering:** Preparing, cleaning, and analyzing data to discover patterns and extract meaningful insights prior to modeling.
 - **Predictive Modeling:** Application of Supervised and Unsupervised learning techniques to predict outcomes and uncover hidden structures.
-- **Machine Learning:** Ensembles (Bagging & Boosting), as well as Deep Learning methods in CNNs, Transformers, LLMs and so on.
+- **Machine Learning:** Ensembles (Bagging & Boosting), as well as Deep Learning methods in Neural Networks, CNNs, LLMs, Transformers and so on.
 
 #### 🛠️  Programming and Tools:
 | <div align="left"><strong> Programming Languages | <div align="left"><strong> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) </strong></div> |
