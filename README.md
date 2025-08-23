@@ -33,6 +33,6 @@ _Still working on this section..._
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alfonsoguisado)
 
 </div> 
-<p align="right"> 
+<p align="left"> 
 <img src="./Artificial Intelligence Loop GIF.gif" width="200" alt="GIF de Programación"> 
 </p>
