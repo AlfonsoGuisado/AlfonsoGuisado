@@ -17,61 +17,60 @@ _Still working on this section..._
 - **Predictive Modeling:** Application of Supervised and Unsupervised learning techniques to predict outcomes and uncover hidden structures.
 - **Machine Learning:** Ensembles (Bagging & Boosting), as well as Deep Learning methods in Neural Networks, CNNs, LLMs, Transformers and so on.
 
-#### 🛠️  Programming and Tools:
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<!-- Contenedor con flex para alinear tabla + gif -->
+<div style="display: flex; align-items: center;">
 
-  <!-- 🛠️ Tabla de habilidades -->
+  <!-- Tabla -->
   <div style="flex: 1;">
     <h3>🛠️ Programming and Tools:</h3>
     <table>
       <tr>
         <td><strong>Programming Languages & Processing</strong></td>
         <td>
-          <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
-          <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"></a>
-          <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff"></a>
+          <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+          <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white">
+          <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff">
         </td>
       </tr>
       <tr>
         <td><strong>Databases & Query Engines</strong></td>
         <td>
-          <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></a>
-          <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
         </td>
       </tr>
       <tr>
         <td><strong>Business Intelligence</strong></td>
         <td>
-          <a href="https://www.tableau.com/"><img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff"></a>
-          <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"></a>
+          <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff">
+          <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff">
         </td>
       </tr>
       <tr>
         <td><strong>Data Platforms</strong></td>
         <td>
-          <a href="https://learn.snowflake.com/en/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff"></a>
-          <a href="https://www.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff"></a>
+          <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff">
+          <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff">
         </td>
       </tr>
       <tr>
         <td><strong>Cloud Platforms</strong></td>
         <td>
-          <a href="https://azure.microsoft.com/en-us"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
+          <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
         </td>
       </tr>
       <tr>
         <td><strong>Version Control</strong></td>
         <td>
-          <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"></a>
+          <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
         </td>
       </tr>
     </table>
   </div>
 
-  <!-- GIF a la derecha -->
-  <div style="margin-right: 40px;">
-    <p align="right">
-    <img src="./Artificial Intelligence Loop GIF.gif" alt="GIF de Programación" width="180">
+  <!-- GIF al lado derecho -->
+  <div style="margin-left: 30px;">
+    <img src="./Artificial Intelligence Loop GIF.gif" alt="GIF de Programación" width="160">
   </div>
 </div>
 
