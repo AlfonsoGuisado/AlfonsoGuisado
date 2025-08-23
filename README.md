@@ -18,13 +18,62 @@ _Still working on this section..._
 - **Machine Learning:** Ensembles (Bagging & Boosting), as well as Deep Learning methods in Neural Networks, CNNs, LLMs, Transformers and so on.
 
 #### 🛠️  Programming and Tools:
-| <div align="left"><strong> Programming Languages & Processing | <div align="left"><strong> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/) [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](https://spark.apache.org/) </strong></div> |
-|---|---|
-| **Databases & Query Engines** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
-| **Business Intelligence** | [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://www.tableau.com/) [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](https://www.microsoft.com/en-us/power-platform/products/power-bi) |
-| **Data Platforms** | [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](https://learn.snowflake.com/en/) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](https://www.databricks.com/) |
-| **Cloud Platforms** | [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/en-us) |
-| **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/) |
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+  <!-- 🛠️ Tabla de habilidades -->
+  <div style="flex: 1;">
+    <h3>🛠️ Programming and Tools:</h3>
+    <table>
+      <tr>
+        <td><strong>Programming Languages & Processing</strong></td>
+        <td>
+          <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
+          <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"></a>
+          <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff"></a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Databases & Query Engines</strong></td>
+        <td>
+          <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></a>
+          <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Business Intelligence</strong></td>
+        <td>
+          <a href="https://www.tableau.com/"><img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff"></a>
+          <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"></a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Data Platforms</strong></td>
+        <td>
+          <a href="https://learn.snowflake.com/en/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff"></a>
+          <a href="https://www.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff"></a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Cloud Platforms</strong></td>
+        <td>
+          <a href="https://azure.microsoft.com/en-us"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Version Control</strong></td>
+        <td>
+          <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"></a>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- GIF a la derecha -->
+  <div style="margin-left: 40px;">
+    <img src="./Artificial Intelligence Loop GIF.gif" alt="GIF de Programación" width="180">
+  </div>
+</div>
+
 
 ---
 
