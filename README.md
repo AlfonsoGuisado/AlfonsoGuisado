@@ -17,14 +17,54 @@ _Still working on this section..._
 - **Predictive Modeling:** Application of Supervised and Unsupervised learning techniques to predict outcomes and uncover hidden structures.
 - **Machine Learning:** Ensembles (Bagging & Boosting), as well as Deep Learning methods in Neural Networks, CNNs, LLMs, Transformers and so on.
 
-#### 🛠️  Programming and Tools:
-| <div align="left"><strong> Programming Languages & Processing | <div align="left"><strong> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/) [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](https://spark.apache.org/) </strong></div> |
-|---|---|
-| **Databases & Query Engines** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
-| **Business Intelligence** | [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://www.tableau.com/) [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](https://www.microsoft.com/en-us/power-platform/products/power-bi) |
-| **Data Platforms** | [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](https://learn.snowflake.com/en/) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](https://www.databricks.com/) |
-| **Cloud Platforms** | [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/en-us) |
-| **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/) |
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+      <th>Programming Languages & Processing</th>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+        <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R" />
+        <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" alt="Apache Spark" />
+      </td>
+    </tr>
+    <tr>
+      <th>Databases & Query Engines</th>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB" />
+      </td>
+    </tr>
+    <tr>
+      <th>Business Intelligence</th>
+      <td>
+        <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" alt="Tableau" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="Power BI" />
+      </td>
+    </tr>
+    <tr>
+      <th>Data Platforms</th>
+      <td>
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff" alt="Snowflake" />
+        <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff" alt="Databricks" />
+      </td>
+    </tr>
+    <tr>
+      <th>Cloud Platforms</th>
+      <td>
+        <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Microsoft Azure" />
+      </td>
+    </tr>
+    <tr>
+      <th>Version Control</th>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="./Artificial Intelligence Loop GIF.gif" alt="GIF animado" style="width: 200px; height: auto;" />
+</div>
+
 
 ---
 
