@@ -69,7 +69,7 @@ _Still working on this section..._
   </div>
 
   <!-- GIF a la derecha -->
-  <div style="margin-left: 40px;">
+  <div style="margin-right: 40px;">
     <img src="./Artificial Intelligence Loop GIF.gif" alt="GIF de Programación" width="180">
   </div>
 </div>
