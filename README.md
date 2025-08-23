@@ -24,10 +24,7 @@ _Still working on this section..._
 | **Business Intelligence** | [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://www.tableau.com/) [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](https://www.microsoft.com/en-us/power-platform/products/power-bi) |
 | **Data Platforms** | [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](https://learn.snowflake.com/en/) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](https://www.databricks.com/) |
 | **Cloud Platforms** | [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/en-us) |
-| **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/) |</div> 
-<p align="right">
-<img src="./Artificial Intelligence Loop GIF.gif" width="200" alt="GIF de Programación">
-</p>
+| **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/) |</div> <p align="right"> <img src="./Artificial Intelligence Loop GIF.gif" width="200" alt="GIF de Programación"> </p>
 
 ---
 
