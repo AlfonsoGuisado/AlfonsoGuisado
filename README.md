@@ -17,13 +17,13 @@ _Still working on this section..._
 - **Predictive Modeling:** Application of Supervised and Unsupervised learning techniques to predict outcomes and uncover hidden structures.
 - **Machine Learning:** Ensembles (Bagging & Boosting), as well as Deep Learning methods in Neural Networks, CNNs, LLMs, Transformers and so on.
 
-<!-- Contenedor con flex para alinear tabla + gif -->
-<div style="display: flex; align-items: center;">
+<!-- Contenedor principal con flex horizontal -->
+<div style="display: flex; align-items: flex-start;">
 
-  <!-- Tabla -->
-  <div style="flex: 1;">
+  <!-- Tabla a la izquierda -->
+  <div>
     <h3>🛠️ Programming and Tools:</h3>
-    <table>
+    <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
       <tr>
         <td><strong>Programming Languages & Processing</strong></td>
         <td>
@@ -68,12 +68,12 @@ _Still working on this section..._
     </table>
   </div>
 
-  <!-- GIF al lado derecho -->
+  <!-- GIF a la derecha -->
   <div style="margin-left: 30px;">
-    <img src="./Artificial Intelligence Loop GIF.gif" alt="GIF de Programación" width="160">
+    <img src="./Artificial Intelligence Loop GIF.gif" alt="GIF de Programación" width="180">
   </div>
-</div>
 
+</div>
 
 ---
 
