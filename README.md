@@ -2,7 +2,7 @@
 ## A space where I share my journey as a Statistician and Data Scientist.
 
 ### 👤  About Me:
-I am a **Statistician and Data Scientist** passionate about **Big Data**, **Predictive Modeling** and **Machine Learning**. My ambition is to transform data into knowledge and build models that not only predict but also make a real impact on decision-making. My approach combines **statistical rigor** with the practical implementation of **advanced data science techniques**, always advocating for readable and clean code. I am constantly striving to learn new technologies and share my journey with the community. <img src="./Artificial Intelligence Loop GIF.gif" width="200" alt="GIF de Programación">
+I am a **Statistician and Data Scientist** passionate about **Big Data**, **Predictive Modeling** and **Machine Learning**. My ambition is to transform data into knowledge and build models that not only predict but also make a real impact on decision-making. My approach combines **statistical rigor** with the practical implementation of **advanced data science techniques**, always advocating for readable and clean code. I am constantly striving to learn new technologies and share my journey with the community.
 
 ---
 
@@ -32,3 +32,7 @@ _Still working on this section..._
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alfonso.ggnz@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alfonsoguisado)
 
+</div> 
+<p align="right"> 
+<img src="./Artificial Intelligence Loop GIF.gif" width="200" alt="GIF de Programación"> 
+</p>
