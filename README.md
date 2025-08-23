@@ -62,9 +62,8 @@ _Still working on this section..._
     </tr>
   </table>
 
-  <img src="./Artificial Intelligence Loop GIF.gif" alt="GIF animado" style="width: 200px; height: auto;" />
+  <img src="./Artificial Intelligence Loop GIF" alt="GIF animado" style="width: 200px; height: auto;" />
 </div>
-
 
 ---
 
