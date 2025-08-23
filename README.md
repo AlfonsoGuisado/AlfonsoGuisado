@@ -26,9 +26,13 @@ _Still working on this section..._
 | **Cloud Platforms** | [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/en-us) |
 | **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/) |
 
+</div> 
+<p align="right">
+<img src="./Artificial Intelligence Loop GIF.gif" width="200" alt="GIF de Programación">
+</p>
+
 ---
 
 #### 🌐  Contact:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alfonso.ggnz@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alfonsoguisado)
-
