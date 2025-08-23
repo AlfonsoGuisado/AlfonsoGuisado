@@ -17,7 +17,7 @@ _Still working on this section..._
 - **Predictive Modeling:** Application of Supervised and Unsupervised learning techniques to predict outcomes and uncover hidden structures.
 - **Machine Learning:** Ensembles (Bagging & Boosting), as well as Deep Learning methods in Neural Networks, CNNs, LLMs, Transformers and so on.
 
-#### 🛠️  Programming and Tools:
+#### 🛠️  Programming and Tools: <img src="./Artificial Intelligence Loop GIF.gif" width="200" alt="GIF de Programación"> 
 | <div align="left"><strong> Programming Languages & Processing | <div align="left"><strong> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/) [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](https://spark.apache.org/) </strong></div> |
 |---|---|
 | **Databases & Query Engines** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
